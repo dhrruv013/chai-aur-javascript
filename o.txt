@@ -1,0 +1,4 @@
+Ctrl+Shift+L -> Select all occurrences of selected word in VSCode
+
+shift + alt + down arrow -> to copy-paste selected code
+
